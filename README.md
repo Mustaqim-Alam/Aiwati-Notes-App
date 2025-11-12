@@ -1,12 +1,10 @@
 # Notes App (Frontend + Backend)
 
-A simple full-stack Notes application built for the assignment.  
+A simple full-stack Notes application built for the Aiwati assignment.  
 Frontend (React + Vite) and Backend (Node + Express + MongoDB) are included in a single repository.
 
 ---
 
-## Demo
-*(Add screenshots or paste a short demo video link/GDrive/Loom here)*
 
 ---
 
